@@ -33,6 +33,10 @@ más fácil que arraiguen la plantas y mejorando la infiltración de los riegos.
 La salud de la tierra es muy importante para que la huerta dé buenos
 resultados tanto en cantidad como en calidad.
 
+Hay que ir con sumo cuidado con las plantas que aún no
+brotaron o son pequeñas aún. Se puede remover la tierra de
+alrededor.
+
 ### Aire
 
 Algunas plantas a veces es necesario protegerlas del viento, porque
@@ -50,7 +54,7 @@ Esta es la distribución de la huerta para el invierno de 2020.
 1. [menta](https://zagcoliving.github.io/huerta/docs/menta)
 1. cilantro
 1. [romero](https://zagcoliving.github.io/huerta/docs/romero)
-1. orégano
+1. [orégano](https://zagcoliving.github.io/huerta/docs/oregano)
 1. tomillo
 1. albahaca
 1. estragón
