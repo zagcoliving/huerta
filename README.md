@@ -47,7 +47,7 @@ Esta es la distribución de la huerta para el invierno de 2020.
 
 <img src="docs/huerta.svg" alt="Mapa de la huerta" width="800" />
 
-1. menta
+1. [menta](docs/menta)
 1. cilantro
 1. romero
 1. orégano
